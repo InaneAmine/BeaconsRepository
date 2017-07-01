@@ -1,0 +1,3 @@
+D:\Projects\Personnel Projects\EstimoteSDK.Windows\EstimoteSDK.Windows\obj\Debug\EstimoteSDK.Windows.winmd
+D:\Projects\Personnel Projects\EstimoteSDK.Windows\EstimoteSDK.Windows\obj\Debug\EstimoteSDK.Windows.winmdobj
+D:\Projects\Personnel Projects\EstimoteSDK.Windows\EstimoteSDK.Windows\obj\Debug\EstimoteSDK.Windows.compile.pdb
